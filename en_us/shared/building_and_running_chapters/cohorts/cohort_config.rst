@@ -29,14 +29,15 @@ applicable):
 3. Optionally, identify the discussion topics that you want to be divided by
    cohort.
    
-  * If you want :ref:`course-wide discussion topics to be divided by
-    cohort<Identifying Private CourseWide Discussion Topics>`, you need to complete
-    some configuration tasks.
+  * Course-wide discussion topics are unified by default, but you can specify
+    that they are :ref:`divided by cohort<Identifying Private CourseWide
+    Discussion Topics>`.
 
-  * In contrast, if you want content-specific discussion topics to be divided
-    by cohort, you do not need to take any action. Instead, you need to complete
-    some configuration tasks only if you want :ref:`content-specific discussion
-    topics to be unified<Make ContentSpecific Discussion Topics Unified>`.
+  * Content-specific discussion topics are divided by cohort by default. You do
+    not need to take any action if you want all content-specific discussions to
+    be divided by cohort. You only need to change settings if you want to make
+    some :ref:`content-specific discussion topics unified<Make ContentSpecific
+    Discussion Topics Unified>`.
 
 You complete these procedures in Studio and on the Instructor Dashboard. For an
 optimal student experience, you should make sure that configuration of the
@@ -503,6 +504,15 @@ Disable the Cohort Feature
 You can disable the cohort feature for your course. Follow the instructions for
 :ref:`enabling the cohort feature<Enable Cohorts>`, but set ``"cohorted":
 false``. All discussion posts immediately become visible to all students.
+=======
+To disable cohorts in your course, follow these steps.
+
+#. In the LMS, select **Instructor**, then select **Cohorts**. 
+
+#. Clear the **Enable Cohorts** option.
+   
+All course content and discussion posts that were previously divided by cohort
+immediately become visible to all students.
 
 If you do re-enable the cohort feature by setting ``"cohorted": true``, all
 previous student cohort assignments are reenabled, and all visibility settings

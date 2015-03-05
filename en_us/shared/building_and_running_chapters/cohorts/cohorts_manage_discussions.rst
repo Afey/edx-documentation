@@ -96,8 +96,8 @@ and comments.
 "(private)". You may only find it necessary to explicitly identify topics that
 have a unified audience for all posts.)
 
-For more information about adding and configuring course-wide discussion
-topics, see :ref:`Organizing_discussions` or :ref:`Identifying Private
+For more information about adding and configuring course-wide discussion topics,
+see :ref:`Create CourseWide Discussion Topics` or :ref:`Identifying Private
 CourseWide Discussion Topics`.
 
 If desired, you could also apply a naming convention to the content-specific

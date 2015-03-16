@@ -129,7 +129,7 @@ C
 
 **Content Library**
 
-See :ref:`Library<L>`.
+  See :ref:`Library<L>`.
 
 
 **Content-Specific Discussion Topic**
@@ -426,7 +426,7 @@ L
 
 **Library**
 
-  A pool of components for use in randomized assignments, that can be shared
+  A pool of components for use in randomized assignments that can be shared
   across multiple courses from your organization. Course teams configure
   randomized content blocks in course outlines to randomly provide a specified
   number of problems to each student.

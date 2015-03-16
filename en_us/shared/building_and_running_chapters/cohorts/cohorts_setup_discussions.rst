@@ -9,8 +9,7 @@ Setting up Discussions in Courses with Cohorts
 In courses that have cohorts enabled, you can set up discussion topics to be
 either divided by cohort, or unified and accessible to all students.
 
-When you first enable cohorts in your course, the initial behavior for :ref
-:`course-wide discussion topics<Coursewide Discussion Topics and Cohorts>` is
+When you first enable cohorts in your course, the initial behavior for :ref:`course-wide discussion topics<Coursewide Discussion Topics and Cohorts>` is
 different from the behavior of :ref:`content-specific (inline) discussion
 topics<Content Specific Discussion Topics and Cohorts>`.
 
@@ -98,14 +97,14 @@ content-specific discussion topic is unified or divided by cohort, see
 Specify Whether Course-Wide Discussion Topics are Divided by Cohort
 ********************************************************************
 
-When you create course-wide discussion topics, they are by default unified,
-and all learners in the course can see and respond to posts from all other
+When you create course-wide discussion topics, they are by default unified, and
+all learners in the course can see and respond to posts from all other
 learners.You can change course-wide discussion topics to be divided by cohort,
 so that only members of the same cohort can see and respond to each other's
 posts.
 
-To change the cohort settings for course-specific discussion topics, follow
-these steps.
+To change the cohort settings for course-wide discussion topics, follow these
+steps.
 
 #. In the LMS, select **Instructor**, then select **Cohorts**. 
 
@@ -182,6 +181,8 @@ these steps.
 #. Clear the checkbox next to each content-specific discussion topic that you
    want to make unified. Select the checkbox next to each content-specific
    discussion topic that you want to divide by cohort.
+   
+#. Click **Save**.
    
    The list of content-specific discussion topics is updated to show which
    topics are divided by cohort, and which are unified. 

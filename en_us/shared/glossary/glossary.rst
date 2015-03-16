@@ -302,6 +302,15 @@ E
   effectiveness and learner comprehension.
 
 
+.. _Export:
+ 
+**Export**
+
+  A tool in edX Studio that allows you to export your course or library for backup purposes, or so that you can edit the course or library directly in
+  XML format. See also :ref:`Import<I>`.
+
+  For more information, see `Export a Course`_ or `Export a Library`_.
+
 .. _F:
 
 ***
@@ -373,7 +382,8 @@ I
 
   A tool in edX Studio that loads a new course or library into your existing
   course or library. When you use the Import tool, Studio replaces all of your
-  existing course or library content with the content from the imported course or library.
+  existing course or library content with the content from the imported course
+  or library. See also :ref:`Export<E>`.
 
   For more information, see `Import a Course`_ or `Import a Library`_.
 
@@ -735,6 +745,8 @@ XYZ
 .. _edX101: https://www.edx.org/course/overview-creating-edx-course-edx-edx101#.VOYi8rDF-n0
 .. _Edge: http://edge.edx.org
 .. _What is Studio?: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/getting_started/get_started.html#what-is-studio.. _: 
+.. _Export a Course: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/building_course/export_import_course.html#export-a-course
+.. _Export a Library: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/creating_content/libraries.html#export-a-library
 .. _Set the Grade Range: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/building_course/establish_grading_policy.html#set-the-grade-range
 .. _Rubric: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/exercises_tools/open_response_assessments/OpenResponseAssessments.html#pa-rubric
 .. _Working with HTML Components: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/creating_content/create_html_component.html

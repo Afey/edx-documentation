@@ -105,8 +105,8 @@ C
   discussions.
 
   Cohorts are an optional feature of courses on the edX platform. For
-  information about how you enable the cohort feature, set up cohort groups,
-  and assign students to them, see `Using Cohorts in Your Courses`_.
+  information about how you enable the cohort feature, set up cohorts, and
+  assign students to them, see `Using Cohorts in Your Courses`_.
 
 .. _Component_g:
  
@@ -125,6 +125,12 @@ C
   use content experiments to compare the performance of students who have been
   exposed to different versions of the content. For more information, see
   `Creating Content Experiments`_.
+
+
+**Content Library**
+
+See :ref:`Library<L>`.
+
 
 **Content-Specific Discussion Topic**
 
@@ -295,6 +301,7 @@ E
   the learner engaged. Exercises are also an important measure of teaching
   effectiveness and learner comprehension.
 
+
 .. _F:
 
 ***
@@ -359,15 +366,16 @@ I
 
   For more information, see `Image Mapped Input Problem`_.
 
+
 .. _Import:
  
 **Import**
 
-  A tool in edX Studio that loads a new course into your existing course. When
-  you use the Import tool, Studio replaces all of your existing course content
-  with the content from the imported course.
+  A tool in edX Studio that loads a new course or library into your existing
+  course or library. When you use the Import tool, Studio replaces all of your
+  existing course or library content with the content from the imported course or library.
 
-  For more information, see `Import a Course`_.
+  For more information, see `Import a Course`_ or `Import a Library`_.
 
 
  
@@ -403,6 +411,17 @@ L
   members use to manage enrollment and staff privileges, moderate discussions,
   and access data while the course is running.
 
+
+.. _Library:
+
+**Library**
+
+  A pool of components for use in randomized assignments, that can be shared
+  across multiple courses from your organization. Course teams configure
+  randomized content blocks in course outlines to randomly provide a specified
+  number of problems to each student.
+
+  For more information, see `Libraries Overview`_.
 
 
 .. _Live Mode:
@@ -721,8 +740,10 @@ XYZ
 .. _Working with HTML Components: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/creating_content/create_html_component.html
 .. _Image Mapped Input Problem: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/exercises_tools/image_mapped_input.html
 .. _Import a Course: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/building_course/export_import_course.html#import-a-course
+.. _Import a Library: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/creating_content/libraries.html#import-a-library
 .. _import LaTeX code: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/creating_content/create_html_component.html#import-latex-code
 .. _problem written in LaTeX: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/exercises_tools/problem_in_latex.html#problem-written-in-latex
+.. _Libraries Overview: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/creating_content/libraries.html
 .. _View Your Live Course: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/developing_course/testing_courseware.html#view-your-live-course
 .. _Entering Mathematical and Scientific Expressions: http://edx-guide-for-students.readthedocs.org/en/latest/SFD_mathformatting.html
 .. _A Brief Introduction to MathJax in Studio: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/exercises_tools/mathjax.html

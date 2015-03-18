@@ -129,7 +129,7 @@ by the members of another cohort.
 
 If you want all content-specific discussion topics in your course to remain
 divided by cohort, you do not need to take any further action. However, if you
-want to make one of more content-specific discussion topics unified
+want to make one or more content-specific discussion topics unified
 (accessible to all students regardless of cohort), or if you :ref:`want all
 future content- specific discussion topics to be unified<Specify the Default
 Behavior for ContentSpecific Discussion Topics>` when you first add them in a
@@ -175,7 +175,7 @@ these steps.
    discussion topics.
 
  * To have content-specific discussion topics created by default as unified,
-   select **Cohort only selected content-specific discussion topics**.
+   select **Cohort selected content-specific discussion topics**.
 
    All content-specific discussion topics that you now create in your course
    outline are unified. If you have this option selected, you can
@@ -225,23 +225,22 @@ divided by cohort or unified depends on your current default setting.
   topics. This setting acts an as override, and all content-specific
   discussion topics are divided by cohort.
 
-  .. note:: If you change the setting from **Cohort only selected content-
-     specific discussion topics** back to **Always cohort content-specific
-     discussion topics**, all content-specific discussion topics are divided
-     by cohort, regardless of their previous setting. Content-specific
-     discussions that were previously unified are still shown as unified in
-     the list, but their cohort setting is overridden by the setting, and you
-     can no longer edit the cohort setting of individual content-specific
-     discussion topics.
+  .. note:: If you change the setting from **Cohort selected content-specific
+     discussion topics** back to **Always cohort content-specific discussion
+     topics**, all content-specific discussion topics are divided by cohort,
+     regardless of their previous setting. Content-specific discussions that
+     were previously unified are still shown as unified in the list, but their
+     cohort setting is overridden by the setting, and you can no longer edit
+     the cohort setting of individual content-specific discussion topics.
 
-* If you have **Cohort only selected content-specific discussion topics**
-  selected, when you add discussion components to your course in Studio, the
-  resulting discussion topics are unified, and all students can view and respond
-  to them, regardless of the cohort they belong to.
+* If you have **Cohort selected content-specific discussion topics** selected,
+  when you add discussion components to your course in Studio, the resulting
+  discussion topics are unified, and all students can view and respond to
+  them, regardless of the cohort they belong to.
 
-  If **Cohort only selected content-specific discussion topics** is selected,
-  the list of content-specific discussion topics in the Instructor Dashboard
-  is editable, and you can change the cohort setting for individual content-
+  If **Cohort selected content-specific discussion topics** is selected, the
+  list of content-specific discussion topics in the Instructor Dashboard is
+  editable, and you can change the cohort setting for individual content-
   specific discussion topics.
 
 
@@ -262,9 +261,11 @@ topics, follow these steps.
 #. Click **Specify whether discussion topics are divided by cohort**. 
    
 #. In the **Content-Specific Discussion Topics** section, if it is not already
-   selected, select **Cohort only selected content-specific discussion topics**.
+   selected, select **Cohort selected content-specific discussion topics**.
 
-   The list of content-specific discussion topics becomes editable. 
+   Any content-specific discussion topics that you add in your course will be
+   unified by default. The list of content-specific discussion topics becomes
+   editable.
    
 #. Clear the checkbox next to each content-specific discussion topic that you
    want to make unified. Select the checkbox next to each content-specific

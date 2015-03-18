@@ -192,7 +192,7 @@ these steps.
    you cannot change the cohort settings of individual content-specific
    discussion topics.
 
-   If you change the setting from **Cohort some content-specific discussion
+   If you change the setting from **Cohort selected content-specific discussion
    topics** back to **Always cohort content-specific discussion topics**, all
    content-specific discussion topics are divided by cohort, regardless of their
    previous setting. Content-specific discussions that were previously unified

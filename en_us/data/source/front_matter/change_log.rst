@@ -14,6 +14,9 @@ January-March 2015
 
    * - Date
      - Change
+   * - 24 Mar 15
+     - Added a new chapter to describe the
+       :ref:`course_structure<`course_structure>` file.
    * - 11 Mar 2015
      - Added information about additional video interaction events that are
        now emitted by the edX mobile app, and reorganized the :ref:`video` in

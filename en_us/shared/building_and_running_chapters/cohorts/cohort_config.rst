@@ -34,10 +34,12 @@ applicable):
     Topics are Cohorted>`.
 
   * Content-specific discussion topics are divided by cohort by default. You do
-    not need to take any action if you want all content-specific discussions to
-    be divided by cohort. You only need to change settings if you want to make
-    some :ref:`content-specific discussion topics unified<Specify Whether
-    ContentSpecific Discussion Topics are Cohorted>`.
+    not need to take any action if you want :ref:`all content-specific
+    discussions<Specify that All ContentSpecific Discussion Topics are
+    Cohorted>` to be divided by cohort. You only need to change settings if you
+    want most of the content-specific discussion topics in your course to be
+    unified, and make :ref:`only a few discussion topics divided by
+    cohort<Specify Some ContentSpecific Discussion Topics as Cohorted>`.
 
 You complete these procedures in Studio and on the Instructor Dashboard. For an
 optimal student experience, you should make sure that configuration of the
